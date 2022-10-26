@@ -4,4 +4,5 @@
 
 <h2>NIM     : 32602000103
 
- <h3> NOTE: Gambar Screenshoot Hasil Program berada di folder <i>Gambar<i> <h3>
+<h3><i> Hasil Screenshoot Program
+
